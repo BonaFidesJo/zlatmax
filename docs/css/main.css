@@ -1259,6 +1259,7 @@ main {
   transition: left 3s linear 0s;
 }
 .fraction-controll {
+  opacity:0;
   display: flex;
   color: white;
   align-items: flex-end;
