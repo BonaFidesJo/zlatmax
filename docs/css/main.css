@@ -1267,10 +1267,12 @@ main {
   letter-spacing: 0.3em;
 }
 .fraction-controll__current {
+ opacity:0;
   color: #E8AA31;
   font-size: 1.5rem;
 }
 .fraction-controll__all {
+ opacity:0;
   font-size: 1.125rem;
 }
 
