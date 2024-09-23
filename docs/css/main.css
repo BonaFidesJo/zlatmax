@@ -1259,21 +1259,24 @@ main {
   transition: left 3s linear 0s;
 }
 .fraction-controll {
-  opacity:0;
+  
   display: flex;
   color: white;
   align-items: flex-end;
   font-weight: 600;
-  letter-spacing: 0.3em;
+  letter-spacing: 0.3em; 
+  opacity:0;
 }
 .fraction-controll__current {
  opacity:0;
-  color: #E8AA31;
-  font-size: 1.5rem;
+color: #E8AA31;
+  font-size: 1.5rem; 
+  opacity:0;
 }
 .fraction-controll__all {
  opacity:0;
-  font-size: 1.125rem;
+ font-size: 1.125rem; 
+  opacity:0;
 }
 
 .slide-main-block__content {
